@@ -26,7 +26,7 @@ Tshirt Shop is an online platform for shopping various shirts. The application a
 
 ### API URL
 
-- [https://tshirtshop-rajeman.herokuapp.com/](https://tshirtshop-rajeman.herokuapp.com)
+
 
 ### Acknowlegement
 
