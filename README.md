@@ -24,7 +24,7 @@ Tshirt Shop is an online platform for shopping various shirts. The application a
 - Sequelize.js
 - Redis
 
-### API URL
+
 
 
 
